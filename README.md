@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi 👋 My name is Mila.
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently a student at Noroff, studying to become a Front-End Developer.
+- 🤔 I’m looking for opportunities to collaborate on beginner friendly or front-end focused projects. 
+- 📫 How to reach me:  **meluhrose@gmail.com**
+- ⚡ Fun fact: I've mastered the art of making yaki udon. 
 <!--
 **meluhrose/meluhrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
