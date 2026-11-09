@@ -44,14 +44,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=meluhrose&show_icons=true&theme=aura&hide_border=true" alt="Mila's GitHub stats" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meluhrose&layout=compact&theme=aura&hide_border=true" alt="Mila's most-used languages" height="165" />
-
-</div>
